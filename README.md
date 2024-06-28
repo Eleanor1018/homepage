@@ -1,3 +1,6 @@
+这是雪雁的个人主页！
+用vue写的，想要的话可以拿走，记得改一下里边的内容~
+
 # eleanor_homepage
 
 This template should help get you started developing with Vue 3 in Vite.
